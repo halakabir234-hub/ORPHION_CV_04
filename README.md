@@ -1,6 +1,6 @@
-#ORPHION_CV_04
-#Image-to-Image Translation using Pix2Pix (Conditional GAN)
-#📘 Context
+ORPHION_CV_04
+Image-to-Image Translation using Pix2Pix (Conditional GAN)
+📘 Context
 
 Image-to-image translation is a fundamental problem in computer vision where the goal is to learn a mapping between two visual domains. Instead of generating images from random noise, conditional Generative Adversarial Networks (cGANs) learn to transform one image into another while preserving structural information.
 
